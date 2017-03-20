@@ -70,6 +70,7 @@
     
  #### Demo
  
+ ![alt tag](https://github.com/lastingyeh/Redux-Integration-lab/blob/master/demo.gif)
  
  #### refs
  
