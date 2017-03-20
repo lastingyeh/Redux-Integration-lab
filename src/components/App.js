@@ -65,7 +65,7 @@ class App extends Component {
     }
 
     return (
-      <div className="row">
+      <div className="row" style={{marginTop:'40'}}>
         <div className="col-md-6 col-md-offset-3">
           <div className="panel panel-warning">
             <div className="panel-heading">

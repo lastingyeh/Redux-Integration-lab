@@ -18,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+              <first_editor relative-caret-position="340">
+                <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="440">
+              <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
               <folding>
                 <element signature="e#60#97#0" expanded="true" />
                 <element signature="e#433#464#0" expanded="true" />
@@ -129,13 +129,13 @@
         <option value="$PROJECT_DIR$/src/actions/items.js" />
         <option value="$PROJECT_DIR$/src/reducers/modalToggle.js" />
         <option value="$PROJECT_DIR$/src/definitions/TodoTypeDefs.js" />
-        <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/TodoModal.js" />
         <option value="$PROJECT_DIR$/src/middlewares/deleteItem.js" />
         <option value="$PROJECT_DIR$/src/components/TodoEditForm.js" />
         <option value="$PROJECT_DIR$/src/components/TodoItem.js" />
         <option value="$PROJECT_DIR$/db_server/db.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/components/App.js" />
       </list>
     </option>
   </component>
@@ -161,7 +161,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-1564" />
+    <option name="y" value="59" />
     <option name="width" value="1440" />
     <option name="height" value="809" />
   </component>
@@ -393,15 +394,15 @@
       <workItem from="1489714055969" duration="4229000" />
       <workItem from="1489756398183" duration="3838000" />
       <workItem from="1489817981844" duration="16901000" />
-      <workItem from="1489969388774" duration="14868000" />
+      <workItem from="1489969388774" duration="15072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70245000" />
+    <option name="totallyTimeSpent" value="70449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="809" extended-state="6" />
+    <frame x="-1564" y="59" width="1440" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1761804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -864,18 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="e#60#97#0" expanded="true" />
-            <element signature="e#433#464#0" expanded="true" />
-            <element signature="e#1085#1528#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/definitions/TodoTypeDefs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -887,11 +876,23 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <first_editor relative-caret-position="340">
+            <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+          <folding>
+            <element signature="e#60#97#0" expanded="true" />
+            <element signature="e#433#464#0" expanded="true" />
+            <element signature="e#1085#1528#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
